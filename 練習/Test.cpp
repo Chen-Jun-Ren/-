@@ -10,9 +10,12 @@ int numsAdd(int A, int B)
 
 int main() {
 
-	std::cout << "Hello World Desktop Computer" << std::endl;//"你好"
+	std::cout << "Hello World Desktop Computer" << std::endl;//"桌機你好"
 
-	std::cout << "Hello World laptop Computer" << std::endl;
+	std::cout << "Hello World laptop Computer" << std::endl;//"筆電你好"
+
+	std::cout << "Hello World Discord" << std::endl;//"你好Discord"
+
 
 	std::cout << numsAdd(10, 10) << std::endl;
 
