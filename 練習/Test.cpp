@@ -14,7 +14,7 @@ int main() {
 
 	std::cout << "Hello World laptop Computer" << std::endl;//"筆電你好"
 
-	std::cout << "Hello World Discord " << std::endl;//"你好Discord WebHook"
+	std::cout << "Hello World Discord " << std::endl;//"你好Discord WebHook Test"
 
 
 	std::cout << numsAdd(10, 10) << std::endl;
