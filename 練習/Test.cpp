@@ -3,10 +3,17 @@
 
 #include <iostream>
 
+int numsAdd(int A, int B)
+{
+	return A + B;
+}
 
 int main() {
 
 	std::cout << "Hello WOrld" << std::endl;//"你好"
+
+	std::cout << numsAdd(10, 10) << std::endl;
+
 	system("pause");
 	return 0;
 }
