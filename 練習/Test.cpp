@@ -10,7 +10,7 @@ int numsAdd(int A, int B)
 
 int main() {
 
-	std::cout << "Hello WOrld" << std::endl;//"你好"
+	std::cout << "Hello WOrld Desktop Computer" << std::endl;//"你好"
 
 	std::cout << numsAdd(10, 10) << std::endl;
 
