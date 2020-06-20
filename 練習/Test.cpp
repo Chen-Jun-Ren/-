@@ -16,6 +16,7 @@ int main() {
 
 	std::cout << "Hello World Discord " << std::endl;//"你好Discord WebHook Test"
 
+	//NEW TEST
 
 	std::cout << numsAdd(10, 10) << std::endl;
 
