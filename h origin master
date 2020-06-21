@@ -1,0 +1,36 @@
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800  1) ﻿// 練習.cpp : 此檔案包含 'main' 函式。程式會於該處開始執行及結束執行。
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800  2) //
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800  3) 
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800  4) #include <iostream>
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800  5) 
+5867cb1c 練習/Test.cpp   (kevinHome    2020-06-20 19:42:42 +0800  6) int numsAdd(int A, int B)
+5867cb1c 練習/Test.cpp   (kevinHome    2020-06-20 19:42:42 +0800  7) {
+5867cb1c 練習/Test.cpp   (kevinHome    2020-06-20 19:42:42 +0800  8) 	return A + B;
+5867cb1c 練習/Test.cpp   (kevinHome    2020-06-20 19:42:42 +0800  9) }
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 10) 
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 11) int main() {
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 12) 
+5d332864 練習/Test.cpp   (kevinHome    2020-06-20 22:02:34 +0800 13) 	std::cout << "Hello World Desktop Computer" << std::endl;//"桌機你好"
+5d332864 練習/Test.cpp   (kevinHome    2020-06-20 22:02:34 +0800 14) 
+5d332864 練習/Test.cpp   (kevinHome    2020-06-20 22:02:34 +0800 15) 	std::cout << "Hello World laptop Computer" << std::endl;//"筆電你好"
+5d332864 練習/Test.cpp   (kevinHome    2020-06-20 22:02:34 +0800 16) 
+57b39410 練習/Test.cpp   (kevinHome    2020-06-20 23:31:13 +0800 17) 	std::cout << "Hello World Discord " << std::endl;//"你好Discord WebHook Test"
+3872e83f 練習/Test.cpp   (kevin5881413 2020-06-20 20:00:47 +0800 18) 
+62744d1e 練習/Test.cpp   (kevin5881413 2020-06-21 14:39:29 +0800 19) 	//筆電 push 測試
+5867cb1c 練習/Test.cpp   (kevinHome    2020-06-20 19:42:42 +0800 20) 
+5867cb1c 練習/Test.cpp   (kevinHome    2020-06-20 19:42:42 +0800 21) 	std::cout << numsAdd(10, 10) << std::endl;
+5867cb1c 練習/Test.cpp   (kevinHome    2020-06-20 19:42:42 +0800 22) 
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 23) 	system("pause");
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 24) 	return 0;
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 25) }
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 26) 
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 27) // 執行程式: Ctrl + F5 或 [偵錯] > [啟動但不偵錯] 功能表
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 28) // 偵錯程式: F5 或 [偵錯] > [啟動偵錯] 功能表
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 29) 
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 30) // 開始使用的秘訣: 
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 31) //   1. 使用 [方案總管] 視窗，新增/管理檔案
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 32) //   2. 使用 [Team Explorer] 視窗，連線到原始檔控制
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 33) //   3. 使用 [輸出] 視窗，參閱組建輸出與其他訊息
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 34) //   4. 使用 [錯誤清單] 視窗，檢視錯誤
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 35) //   5. 前往 [專案] > [新增項目]，建立新的程式碼檔案，或是前往 [專案] > [新增現有項目]，將現有程式碼檔案新增至專案
+64eb3087 練習/練習.cpp (kevinHome    2020-06-20 19:03:48 +0800 36) //   6. 之後要再次開啟此專案時，請前往 [檔案] > [開啟] > [專案]，然後選取 .sln 檔案
