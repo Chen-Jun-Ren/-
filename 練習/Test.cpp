@@ -3,9 +3,14 @@
 
 #include <iostream>
 
-int numsAdd(int A, int B)
+int test(int a, int b)
 {
-	return A + B;
+	int result = 0;
+	if ((a < 3) && (b < 7)) {
+		if (b == 4)	{
+
+		}
+	}
 }
 
 int main() {
@@ -18,7 +23,6 @@ int main() {
 
 	//GitHub Desktop Testing
 
-	std::cout << numsAdd(10, 10) << std::endl;
 
 	system("pause");
 	return 0;
